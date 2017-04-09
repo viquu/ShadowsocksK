@@ -10,6 +10,8 @@ ShadowsocksK
 
 ``java -jar target/ShadowsocksK-1.0-SNAPSHOT.jar config.json``
 
+[直接下载](https://github.com/xlvecle/ShadowsocksK/raw/master/jar_release/ShadowsocksK-1.0-SNAPSHOT.jar)
+
 当前状况：
 
 + 仅作为客户端
